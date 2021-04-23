@@ -4,7 +4,7 @@ I will try to refactor it when i get the time.
 
 #------------------------------------------------------------------------------------------------------------------------------
 Please refer below for details of the implementation
-Reference Publication: https://www.researchgate.net/publication/346535900_mTrust_Call_Behavioral_Trust_Predictive_Analytics_Using_Unsupervised_Learning_in_Mobile_Cloud_Computing
+Reference Publication: https://link.springer.com/article/10.1007/s11277-020-07879-x
 
 #------------------------------------------------------------------------------------------------------------------------------
 
